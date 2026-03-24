@@ -17,5 +17,4 @@ public class Tanar {
         return "Tanar{name='" + name + "', age=" + age + ", address='" + address + "'}";
     }
 
-
 }

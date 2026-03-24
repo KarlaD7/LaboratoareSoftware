@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3caa2dc-8590-4aae-a52e-bd7d55b3f453" name="Changes" comment="rezolvare 3.5.1">
-      <change afterPath="$PROJECT_DIR$/src/ro/ulbs/proiectaresoftware/lab4/AppLab4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/ulbs/proiectaresoftware/lab4/Tanar.java" afterDir="false" />
+    <list default="true" id="f3caa2dc-8590-4aae-a52e-bd7d55b3f453" name="Changes" comment="rezolvare 4.5.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/ulbs/proiectaresoftware/lab4/Tanar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/ulbs/proiectaresoftware/lab4/Tanar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <workItem from="1773124737014" duration="1914000" />
       <workItem from="1773728442841" duration="1542000" />
       <workItem from="1773730235519" duration="1710000" />
-      <workItem from="1774332909836" duration="2732000" />
+      <workItem from="1774332909836" duration="3623000" />
     </task>
     <task id="LOCAL-00001" summary="Adaugare rezolvare problema 2.5.1 lab2">
       <option name="closed" value="true" />
@@ -97,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773729965655</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rezolvare 4.5.1">
+      <option name="closed" value="true" />
+      <created>1774336320933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774336320933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adaugare rezolvare problema 2.5.1 lab2" />
     <MESSAGE value="rezolvare 3.5.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="rezolvare 3.5.1" />
+    <MESSAGE value="rezolvare 4.5.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="rezolvare 4.5.1" />
   </component>
 </project>
