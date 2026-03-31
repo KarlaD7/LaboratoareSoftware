@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3caa2dc-8590-4aae-a52e-bd7d55b3f453" name="Changes" comment="rezolvare 4.5.1" />
+    <list default="true" id="f3caa2dc-8590-4aae-a52e-bd7d55b3f453" name="Changes" comment="rezolvare 4.5.1">
+      <change afterPath="$PROJECT_DIR$/src/ro/ulbs/proiectaresoftware/advanced/ACalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/ulbs/proiectaresoftware/advanced/Lab5Adv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/ulbs/proiectaresoftware/lab5/AppLab5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AppLab4.executor": "Run",
+    "Application.AppLab5.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.main.executor": "Run",
     "Application.problema251.executor": "Run",
@@ -75,7 +81,8 @@
       <workItem from="1773124737014" duration="1914000" />
       <workItem from="1773728442841" duration="1542000" />
       <workItem from="1773730235519" duration="1710000" />
-      <workItem from="1774332909836" duration="3752000" />
+      <workItem from="1774332909836" duration="3820000" />
+      <workItem from="1774933974753" duration="2518000" />
     </task>
     <task id="LOCAL-00001" summary="Adaugare rezolvare problema 2.5.1 lab2">
       <option name="closed" value="true" />
@@ -117,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774337448224</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="rezolvare 4.5.1">
+      <option name="closed" value="true" />
+      <created>1774337473958</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774337473958</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
