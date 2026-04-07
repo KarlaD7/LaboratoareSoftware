@@ -1,4 +1,4 @@
-package ro.ulbs.proiectaresoftware.lab3;
+package proiectaresoftware.lab3;
 
 import java.io.IOException;
 import java.nio.file.Files;

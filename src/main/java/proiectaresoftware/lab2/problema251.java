@@ -1,4 +1,4 @@
-package ro.ulbs.proiectaresoftware.lab2;
+package proiectaresoftware.lab2;
 
 import java.util.*;
 

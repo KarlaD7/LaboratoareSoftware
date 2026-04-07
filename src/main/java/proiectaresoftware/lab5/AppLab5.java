@@ -1,4 +1,4 @@
-package ro.ulbs.proiectaresoftware.lab5;
+package proiectaresoftware.lab5;
 
 class IntCalculator{
     protected int state;

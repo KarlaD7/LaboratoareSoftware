@@ -1,6 +1,4 @@
-package ro.ulbs.proiectaresoftware.lab4;
-
-import java.util.HashMap;
+package proiectaresoftware.lab4;
 
 public class Tanar {
     private String name;

@@ -1,4 +1,4 @@
-package ro.ulbs.proiectaresoftware.lab4;
+package proiectaresoftware.lab4;
 
 import java.util.HashMap;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package ro.ulbs.proiectaresoftware;
+package proiectaresoftware;
 
 import java.util.ArrayList;
 import java.util.List;
