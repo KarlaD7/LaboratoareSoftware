@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3caa2dc-8590-4aae-a52e-bd7d55b3f453" name="Changes" comment="7.6.1 &amp; 7.6.2">
-      <change afterPath="$PROJECT_DIR$/laborator8_input.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proiectaresoftware/lab8/AppLab8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.2.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.0/checksums/checksums.lock" afterDir="false" />
+    <list default="true" id="f3caa2dc-8590-4aae-a52e-bd7d55b3f453" name="Changes" comment="8.5.1., 8.5.2, 8.5.3">
       <change beforePath="$PROJECT_DIR$/.gradle/9.2.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.2.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.0/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.2.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.0/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proiectaresoftware/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proiectaresoftware/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,40 +64,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AppLab4.executor": "Run",
-    "Application.AppLab5.executor": "Run",
-    "Application.Lab5Adv.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.main.executor": "Run",
-    "Application.problema251.executor": "Run",
-    "Application.probleme.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Gradle.DoubleCalculatorTest.addTest.executor": "Run",
-    "Gradle.DoubleCalculatorTest.executor": "Run",
-    "Gradle.DoubleCalculatorTest.testAddPositives.executor": "Run",
-    "Gradle.LaboratoareSoftware [:proiectaresoftware.lab7.Main.main()].executor": "Run",
-    "Gradle.LaboratoareSoftware [:proiectaresoftware.lab8.AppLab8.main()].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AppLab4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AppLab5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab5Adv.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problema251.executor&quot;: &quot;Run&quot;,
+    &quot;Application.probleme.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Gradle.DoubleCalculatorTest.addTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.DoubleCalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.DoubleCalculatorTest.testAddPositives.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LaboratoareSoftware [:proiectaresoftware.lab7.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LaboratoareSoftware [:proiectaresoftware.lab8.AppLab8.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Proiectare Software\LaboratoareSoftware" />
@@ -112,7 +107,7 @@
       <recent name="proiectaresoftware.advanced" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AppLab8">
+  <component name="RunManager" selected="Application.proiectaresoftware.Main">
     <configuration name="AppLab8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="proiectaresoftware.lab8.AppLab8" />
       <module name="ProiectareSoftware.main" />
@@ -139,32 +134,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleCalculatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;proiectaresoftware.advanced.DoubleCalculatorTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <GradleProfilingDisabled>false</GradleProfilingDisabled>
-      <GradleCoverageDisabled>false</GradleCoverageDisabled>
-      <method v="2" />
+    <configuration name="proiectaresoftware.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proiectaresoftware.Main" />
+      <module name="ProiectareSoftware.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proiectaresoftware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="DoubleCalculatorTest.addTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -222,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.proiectaresoftware.Main" />
         <item itemvalue="Application.AppLab8" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Gradle.DoubleCalculatorTest.testAddPositives" />
         <item itemvalue="Gradle.DoubleCalculatorTest.addTest" />
-        <item itemvalue="Gradle.DoubleCalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +239,8 @@
       <workItem from="1775544210628" duration="5746000" />
       <workItem from="1776749603316" duration="2823000" />
       <workItem from="1777198437618" duration="454000" />
-      <workItem from="1777354092891" duration="2444000" />
+      <workItem from="1777354092891" duration="3502000" />
+      <workItem from="1777957597497" duration="1075000" />
     </task>
     <task id="LOCAL-00001" summary="Adaugare rezolvare problema 2.5.1 lab2">
       <option name="closed" value="true" />
@@ -332,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776751509175</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="8.5.1., 8.5.2, 8.5.3">
+      <option name="closed" value="true" />
+      <created>1777356653525</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1777356653527</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,6 +336,7 @@
     <MESSAGE value="rezolvare 5.5.1 si 5.5.2" />
     <MESSAGE value="varianta buna" />
     <MESSAGE value="7.6.1 &amp; 7.6.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.6.1 &amp; 7.6.2" />
+    <MESSAGE value="8.5.1., 8.5.2, 8.5.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.5.1., 8.5.2, 8.5.3" />
   </component>
 </project>
