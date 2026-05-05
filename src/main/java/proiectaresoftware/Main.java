@@ -32,7 +32,7 @@ public class Main {
         }
 
         // 9.3.1
-        System.out.println("\n--- Rezultate Problema 9.3.1 ---");
+        System.out.println("\n Problema 9.3.1: ");
 
         Random random = new Random();
 
@@ -70,5 +70,29 @@ public class Main {
                 .anyMatch(n -> n == 12);
         System.out.println("e) Contine valoarea 12? " + (gasit12 ? "Da" : "Nu"));
 
+        //9.3.2:
+        System.out.println("\n Problema 9.3.2: ");
+        String text = "Acesta este un program scris in java pentru expresii lambda";
+
+        List<String> cuvinte = Arrays.asList(text.split(" "));
+        //a) parcurgeti si numarati cuvintele ale caror lungime este mai mare sau egala de 5 caractere.
+        List<String> cuvinteLungi = cuvinte.stream()
+                .filter(c -> c.length() >= 5)
+                .collect(Collectors.toList());
+
+        System.out.println("a) Lista filtrata (lungime >= 5): " + cuvinteLungi);
+        System.out.println("   Nrmar de cuvinte gasite: " + cuvinteLungi.size());
+
+        //b) ordonati lista noua si apoi afisati
+        List<String> cuvinteOrdonate = cuvinteLungi.stream()
+                .sorted()
+                .collect(Collectors.toList());
+        System.out.println("b) Lista ordonata: " + cuvinteOrdonate);
+
+        // c) Afișarea unui element care începe cu litera 'p'
+        cuvinte.stream()
+                .filter(c -> c.toLowerCase().startsWith("p"))
+                .findFirst()
+                .ifPresent(c -> System.out.println("c) Cuvant care incepe cu 'p': " + c));
     }
 }
