@@ -1,10 +1,8 @@
 package proiectaresoftware.lab6;
 
-import proiectaresoftware.advanced.ACalculator;
-
 public class DoubleCalculator  extends ACalculator<Double> {
     @Override
-    DoubleCalculator init() {
+    public DoubleCalculator init() {
         state = 0.0;
         return this;
     }

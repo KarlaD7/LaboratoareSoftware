@@ -3,7 +3,7 @@ package proiectaresoftware.lab6;
 public class NewIntCalculator extends ACalculator<Integer> {
 
     @Override
-    NewIntCalculator init() {
+    public NewIntCalculator init() {
         state = 0;
         return this;
     }
