@@ -6,8 +6,8 @@ import proiectaresoftware.lab6.DoubleCalculator;
 public class DoubleCalculatorTest {
 
     private DoubleCalculator calculator;
-
     private static final double DELTA = 1e-9;
+
     @BeforeEach
     public void setUp() {
         calculator = new DoubleCalculator();
@@ -92,19 +92,11 @@ public class DoubleCalculatorTest {
     }
 
     @Test
-    public void testDivideBy0ReturnsInfinity() {
+    public void testDivideBy0() {
         calculator.add(5.0);
-        calculator.divide(0.0);
-        Assertions.assertTrue(Double.isInfinite(calculator.result()),
-                "Impartirea unui double la 0.0 ar trebui sa returneze Infinity");
-    }
-
-    @Test
-    public void testDivideNegativeBy0ReturnsNegativeInfinity() {
-        calculator.add(-5.0);
-        calculator.divide(0.0);
-        Assertions.assertTrue(Double.isInfinite(calculator.result()));
-        Assertions.assertTrue(calculator.result() < 0);
+        Assertions.assertThrows(ArithmeticException.class, () -> {
+            calculator.divide(0.0);
+        });
     }
 
     @Test
