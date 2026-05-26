@@ -30,4 +30,5 @@ public class CookingTasks extends Thread {
         System.out.println("["+Thread.currentThread().getName()+"]  " +  name);
         Restaurant.getRestaurant().washDishes();
     }
+
 }
